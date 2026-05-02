@@ -99,6 +99,8 @@ RIA-TV++ 这个名字拆开看：
 
 - 来源仓库：[ace3000chao/book2startup](https://github.com/ace3000chao/book2startup)
 - 书目包括：《精益创业》《孙子兵法》《庄子》《易经》
+- 来源仓库：[shenqistart/book2skill](https://github.com/shenqistart/book2skill)
+- 书目包括：《缠论》《茶经》
 
 ## 仓库结构
 
@@ -135,6 +137,7 @@ cangjie-skill 是一个更大的 skill 生态的一部分：
 - [First Principles Skill](https://github.com/kangarooking/first-principles-skill) — 《第一性原理》的 10 个认知拆解、破界创新与组织刷新 skill
 - [Mao Selected Works Skill](https://github.com/kangarooking/mao-selected-works-skill) — 《毛泽东选集》第 1-5 卷的 25 个认知、战略、组织与执行方法 skill
 - [book2startup](https://github.com/ace3000chao/book2startup) — 经作者同意引入的外部来源，包含《精益创业》《孙子兵法》《庄子》《易经》相关 skills
+- [book2skill](https://github.com/shenqistart/book2skill) — 经作者同意引入的外部来源，包含《缠论》《茶经》相关 AI-Agent skills
 
 ## 关于作者
 
