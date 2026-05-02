@@ -76,6 +76,7 @@ RIA-TV++ の名前の由来：
 | [buffett-letters-skill](https://github.com/kangarooking/buffett-letters-skill) | バフェットの株主への手紙（1957-2023） | 20 |
 | [cognitive-dividend-skill](https://github.com/kangarooking/cognitive-dividend-skill) | 認知の红利 | 15 |
 | [duan-yongping-skill](https://github.com/kangarooking/duan-yongping-skill) | 段永平の投資Q&A（ビジネス+投資ロジック） | 15 |
+| [viral-copywriting-skill](https://github.com/kangarooking/viral-copywriting-skill) | 『爆款文案』 | 14 |
 | [poor-charlies-almanack-skill](https://github.com/kangarooking/poor-charlies-almanack-skill) | 貧しきチャーリーの格言 | 12 |
 | [no-rules-rules-skill](https://github.com/kangarooking/no-rules-rules-skill) | No Rules Rules | 10 |
 | 黄帝内経・素問（本プロジェクト内） | 『黄帝内経・素問』 | 10 |
@@ -123,6 +124,7 @@ cangjie-skill はより大きなスキルエコシステムの一部です：
 - [No Rules Rules Skill](https://github.com/kangarooking/no-rules-rules-skill) — ネットフリックスの自由と責任の文化から抽出した10個の組織設計スキル
 - [Cognitive Dividend Skill](https://github.com/kangarooking/cognitive-dividend-skill) — 『認知の红利』から抽出した15個の認知ツールスキル
 - [Duan Yongping Skill](https://github.com/kangarooking/duan-yongping-skill) — 段永平の投資Q&Aから抽出した15個のビジネス・投資スキル
+- [Viral Copywriting Skill](https://github.com/kangarooking/viral-copywriting-skill) — 『爆款文案』から抽出した14個の販売コピーライティング・診断スキル
 - Huangdi Neijing Suwen Skill（本プロジェクト内）— 『黄帝内経・素問』から抽出した10個の中医観察・調整スキル
 - Huangdi Neijing Lingshu Skill（本プロジェクト内）— 『黄帝内経・霊枢』から抽出した8個の心身調整・弁証スキル
 - [First Principles Skill](https://github.com/kangarooking/first-principles-skill) — 『第一性原理』から抽出した10個の公理化思考・破界イノベーション・組織刷新スキル
