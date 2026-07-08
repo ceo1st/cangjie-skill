@@ -176,6 +176,10 @@ WeChat Official Account「袋鼠帝 AI 客栈」QR code:
 
 ![](https://raw.githubusercontent.com/kangarooking/cangjie-skill/main/assets/kangarooking-gzh.png)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kangarooking/cangjie-skill&type=Date)](https://star-history.com/#kangarooking/cangjie-skill&Date)
+
 ## License
 
 MIT. See [LICENSE](./LICENSE).

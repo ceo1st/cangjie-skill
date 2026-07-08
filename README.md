@@ -206,6 +206,10 @@ cangjie-skill 是一个更大的 skill 生态的一部分：
 
 <img src="https://raw.githubusercontent.com/kangarooking/cangjie-skill/main/assets/wecom-cangjie-group-qr.png" width="220" alt="cangjie-skill 企微交流群二维码">
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kangarooking/cangjie-skill&type=Date)](https://star-history.com/#kangarooking/cangjie-skill&Date)
+
 ## License
 
 MIT. See [LICENSE](./LICENSE).
